@@ -90,8 +90,7 @@ if __name__ == "__main__":
         + ["clothes"] * 5
         + ["fruit_veg"] * 25
         + ["sweets"] * 20
-        + ["food"] * 25
-        + ["bws"] * 10
+        + ["food"] * 35
     )
 
     gen_id = "starter"
